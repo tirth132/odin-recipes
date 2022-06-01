@@ -1,0 +1,20 @@
+header {
+  width: 80%;
+  max-width: 300px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.header-logo {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 15px auto;
+  margin-bottom: 0;
+}
+
+.header-text {
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0px;
+}
