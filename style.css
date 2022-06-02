@@ -21,11 +21,11 @@ header {
 
 main {
   display: flex;
+  justify-content: space-between;
 }
 
 .recipe-card {
   flex: 1 1 0%;
-  margin: 15px;
 }
 
 .recipe-image {
