@@ -27,3 +27,11 @@ main {
   flex: 1 1 0%;
   margin: 15px;
 }
+
+.recipe-image {
+  display: block;
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 5%;
+}
